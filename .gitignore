@@ -4,3 +4,5 @@
 /vendors
 .DS_Store
 tags
+.idea/*
+.idea/**
